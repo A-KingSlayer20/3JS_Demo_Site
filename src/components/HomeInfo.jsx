@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>KingSlayer</span>
         👋
         <br />
-        Self Trained Professional 🇭🇷
+        Self Trained Professional ⚔️
       </h1>
     );
 
