@@ -13,7 +13,7 @@ Welcome to my interactive 3D portfolio, built with [Three.js](https://threejs.or
 ---
 
 ## 🎨 **Demo**
-[![3D Portfolio Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://example.com/demo)
+[![3D Portfolio Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://a-kingslayer20.github.io/3JS_Demo_Site/)
 
 ---
 
